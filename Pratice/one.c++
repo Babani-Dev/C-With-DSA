@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std ;
+int main () {
+  int a = 99;
+  int b = 1;
+  cout<< a + b << endl ;
+  return 0;
+
+}
